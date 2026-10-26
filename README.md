@@ -1,6 +1,6 @@
 # EX.-NO-2-IMPLEMENTATION-OF-PLAYFAIR-CIPHER
 
-## Name: 
+## Name: Arunachalam
 ## Reference Number: 212225230019
 
 # AIM:
